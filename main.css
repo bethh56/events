@@ -1,3 +1,26 @@
 body {
-    background-color: darkgrey;
+    background-color: rgba(255, 0, 0, 0.548);
+}
+
+#pies {
+    display: flex;
+    flex-flow: row wrap; 
+    justify-content: center; 
+} 
+
+.cards {
+    border: seagreen 3px solid;
+    width: 30%;
+    margin: 1%;
+    text-align: center;
+}    
+    
+
+img {
+    width: 100%; 
+}
+
+h4 {
+    margin: 5px;
+    
 }
